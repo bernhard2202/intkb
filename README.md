@@ -1,5 +1,5 @@
 # IntKB: A Verifiable Interactive Framework for Knowledge Base Completion
-This is the PyTorch implementation of the COLING 2020 paper [IntKB: A Verifiable Interactive Framework for Knowledge Base Completion](Paper/IntKB_Paper.pdf)
+This is the Python implementation of the COLING 2020 paper [IntKB: A Verifiable Interactive Framework for Knowledge Base Completion](Paper/IntKB_Paper.pdf)
 
 
 ## Live Demo
