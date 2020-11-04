@@ -14,7 +14,7 @@ Knowledge bases (KBs) are essential for many downstream NLP tasks, yet their pri
 
 ## Source Code
 
-You can find the source code used for the research paper [here](src/README.md). Please understand that we lack time and resources to maintain this repository but check out our [live demo](https://wikidatacomplete.org/).
+You can find the source code used for the research paper [here](Code/README.md). Please understand that we lack time and resources to maintain this repository but check out our [live demo](https://wikidatacomplete.org/).
 
 ## Open Review
 
