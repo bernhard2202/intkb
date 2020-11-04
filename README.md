@@ -1,7 +1,7 @@
 # IntKB: A Verifiable Interactive Framework for Knowledge Base Completion
 This is the Python implementation of the COLING 2020 paper [IntKB: A Verifiable Interactive Framework for Knowledge Base Completion](Paper/IntKB_Paper.pdf)
 
-Authors: [Bernhard Kratzwald](), [Kunpeng Guo](https://github.com/gabinguo), [Stefan Feuerriegel](https://mis.ethz.ch/about/feuerriegel.html), [Dennis Diefenbach](http://wdaqua.eu/students/dennis-diefenbach/)
+Authors: [Bernhard Kratzwald](https://bernhard2202.github.io/), [Kunpeng Guo](https://github.com/gabinguo), [Stefan Feuerriegel](https://mis.ethz.ch/about/feuerriegel.html), [Dennis Diefenbach](http://wdaqua.eu/students/dennis-diefenbach/)
 
 ## Live Demo
 
